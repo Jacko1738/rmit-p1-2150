@@ -1,3 +1,4 @@
+//ello mate
 import java.util.Scanner;
 public class money {
     public static void main(String[] args){
